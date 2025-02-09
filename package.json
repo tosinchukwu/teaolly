@@ -27,6 +27,6 @@
     "@actions/github": "^6.0.0"
   },
   "publishConfig": {
-  "registry": "https://npm.pkg.github.com"
+  "registry": "https://www.npmjs.com/settings/tosinchukwu/packages"
   }
 }
