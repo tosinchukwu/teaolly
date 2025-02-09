@@ -1,33 +1,30 @@
 {
-  "name": "tea",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "name": "@tosinchukwu/server",
+      "version": "1.0.0",
+      "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
+      "main": "index.js",
+      "author": "",
+      "license": "MIT",
+    
+        "dependencies": {
+    "@tosinchukwu/core": "^1.11.1",
+    "@tosichukwu/github": "^6.0.0"
   },
+  "scripts": 
+    {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tosinchukwu/Tea.git"
   },
   "keywords": [],
+  
+    "url": "https://x.com/mouseng20",
 
-  "author": 
-  {
-    "name" : "@Tosinchukwu/tea",
-    "url": "https://x.com/mouseng20"
-  },
-  "license": "ISC",
   "type": "commonjs",
   "bugs": {
     "url": "https://git,hub.com/tosinchukwu/Tea/issues"
   },
-  "homepage": "https://github.com/tosinchukwu/Tea#readme",
-  "description": "",
-  "dependencies": {
-    "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.0"
-  },
-  "publishConfig": {
-  "registry": "https://www.npmjs.com/settings/tosinchukwu/packages"
-  }
-}
+  "homepage": "https://github.com/tosinchukwu/Tea#readme"
+      }
