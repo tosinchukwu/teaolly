@@ -10,7 +10,11 @@
     "url": "git+https://github.com/tosinchukwu/Tea.git"
   },
   "keywords": [],
-  "author": "",
+  "author": 
+  {
+    "name" : "Tosinchukwu",
+    "url": "https://x.com/mouseng20"
+  },
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
