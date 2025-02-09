@@ -12,18 +12,21 @@
   "keywords": [],
   "author": 
   {
-    "name" : "Tosinchukwu",
+    "name" : "@Tosinchukwu/tea",
     "url": "https://x.com/mouseng20"
   },
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/tosinchukwu/Tea/issues"
+    "url": "https://git,hub.com/tosinchukwu/Tea/issues"
   },
   "homepage": "https://github.com/tosinchukwu/Tea#readme",
   "description": "",
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.0"
+  },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
   }
 }
