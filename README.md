@@ -1,2 +1,2 @@
 # Brief on this file
-Making a Project to onboad to Tea
+Making a simple Repo to Onboard on Tea Testnet Network
