@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://git,hub.com/tosinchukwu/Tea/issues"
   },
+  "publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+  }
+
   "homepage": "https://github.com/tosinchukwu/Tea#readme"
       }
