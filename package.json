@@ -1,6 +1,7 @@
 {
-      "name": "@tosinchukwu/server",
+      "name": "@tosinchukwu/github",
       "version": "1.0.0",
+      "private": false,
       "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
       "main": "index.js",
       "author": "",
@@ -8,7 +9,7 @@
     
         "dependencies": {
     "@tosinchukwu/core": "^1.11.1",
-    "@tosichukwu/github": "^6.0.0"
+    "@tosinchukwu/github": "^6.0.0"
   },
   "scripts": 
     {
@@ -18,17 +19,24 @@
     "type": "git",
     "url": "git+https://github.com/tosinchukwu/Tea.git"
   },
+     
+  "homepage": "https://github.com/tosinchukwu/Tea#readme",
+  
+
   "keywords": [],
   
     "url": "https://x.com/mouseng20",
 
   "type": "commonjs",
   "bugs": {
-    "url": "https://git,hub.com/tosinchukwu/Tea/issues"
+    "url": "https://github.com/tosinchukwu/Tea/issues"
   },
-  "publishConfig": {
+  "publishConfig":
+   {
   "registry": "https://npm.pkg.github.com"
-  }
+   }
+  
+}
+  
 
-  "homepage": "https://github.com/tosinchukwu/Tea#readme"
-      }
+           
