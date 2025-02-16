@@ -1,16 +1,20 @@
 {
-      "name": "@tosinchukwu/github",
+      "name": "my-lagos-tea",
       "version": "1.0.0",
       "private": false,
-      "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
+      "description": "My first npm package",
       "main": "index.js",
-      "author": "",
+      "author": "Tosin",
       "license": "MIT",
+}
+      
     
         "dependencies": {
     "@tosinchukwu/core": "^1.11.1",
     "@tosinchukwu/github": "^6.0.0"
   },
+
+
   "scripts": 
     {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -38,5 +42,4 @@
   
 }
   
-
            
