@@ -1,12 +1,11 @@
 {
       "name": "@tosinchukwu/my-lagos-tea",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "private": false,
       "description": "My first npm package",
       "main": "index.js",
       "author": "Tosin",
       "license": "MIT",
-
       "dependencies": {
             "@tosinchukwu/core": "^1.11.1",
             "@tosinchukwu/github": "^6.0.0"
