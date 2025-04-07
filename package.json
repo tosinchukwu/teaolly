@@ -1,11 +1,12 @@
 {
-      "name": "my-lagos-tea",
+      "name": "@tosinchukwu/my-lagos-tea",
       "version": "1.0.0",
       "private": false,
       "description": "My first npm package",
       "main": "index.js",
       "author": "Tosin",
       "license": "MIT",
+
       "dependencies": {
             "@tosinchukwu/core": "^1.11.1",
             "@tosinchukwu/github": "^6.0.0"
@@ -25,6 +26,6 @@
             "url": "https://github.com/tosinchukwu/Tea/issues"
       },
       "publishConfig": {
-            "registry": "https://registry.npmjs.org"
+            "registry": "https://npm.pkg.github.com"
       }
 }
