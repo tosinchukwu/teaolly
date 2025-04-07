@@ -1,6 +1,6 @@
 {
       "name": "@tosinchukwu/my-lagos-tea",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "private": false,
       "description": "My first npm package",
       "main": "index.js",
