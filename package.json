@@ -6,40 +6,25 @@
       "main": "index.js",
       "author": "Tosin",
       "license": "MIT",
-
-      
-    
-        "dependencies": {
-    "@tosinchukwu/core": "^1.11.1",
-    "@tosinchukwu/github": "^6.0.0"
-  },
-
-
-  "scripts": 
-    {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tosinchukwu/Tea.git"
-  },
-     
-  "homepage": "https://github.com/tosinchukwu/Tea#readme",
-  
-
-  "keywords": [],
-  
-    "url": "https://x.com/mouseng20",
-
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/tosinchukwu/Tea/issues"
-  },
-  "publishConfig":
-   {
-  "registry": "https://npm.pkg.github.com"
-   }
-  
+      "dependencies": {
+            "@tosinchukwu/core": "^1.11.1",
+            "@tosinchukwu/github": "^6.0.0"
+      },
+      "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "repository": {
+            "type": "git",
+            "url": "git+https://github.com/tosinchukwu/Tea.git"
+      },
+      "homepage": "https://github.com/tosinchukwu/Tea#readme",
+      "keywords": [],
+      "url": "https://x.com/mouseng20",
+      "type": "commonjs",
+      "bugs": {
+            "url": "https://github.com/tosinchukwu/Tea/issues"
+      },
+      "publishConfig": {
+            "registry": "https://registry.npmjs.org"
+      }
 }
-  
-           
